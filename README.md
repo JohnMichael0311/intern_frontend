@@ -1,8 +1,7 @@
 # This is a project built on Nextjs framework
 
-## Already Deployed, vist the link below
 
-[https://firstbench-ten.vercel.app/](https://firstbench-ten.vercel.app/)
+
 
 ### 1. Install Dependencies
 
